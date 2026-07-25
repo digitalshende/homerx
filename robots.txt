@@ -1,0 +1,11 @@
+User‑agent: *
+Allow: /
+
+User-agent: *
+Disallow: /lp/
+
+# Block internal search pages (if search is ever added)
+Disallow: /search
+
+# Sitemap location – update when a sitemap is created
+# Sitemap: https://homerx.in/sitemap.xml
